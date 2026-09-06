@@ -7,6 +7,16 @@
 # Visual Studio cache
 .vscode/
 
+# Visual Studio
+.vs/
+
+# VS Code
+.vscode/
+
+# Build
+[Bb]in/
+[Oo]bj/
+
 # Test results
 TestResults/
 *.trx
