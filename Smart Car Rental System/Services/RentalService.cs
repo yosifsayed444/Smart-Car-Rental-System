@@ -8,6 +8,8 @@ namespace Smart_Car_Rental_System.Services
         private readonly Branch branch;
         private readonly List<Customer> customers;
         private readonly List<Car> cars;
+
+
         private Manager manager;
         private readonly List<RentalTransactions> transactions;
 
