@@ -9,6 +9,8 @@
             return $"{prefix}-{n}";
         }
 
+
+
         public static void ValidateEmail(string? email)
         {
             if (string.IsNullOrWhiteSpace(email))
