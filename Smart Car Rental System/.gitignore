@@ -1,21 +1,16 @@
 # Visual Studio
 .vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
 # Build results
 [Bb]in/
 [Oo]bj/
 
 # Visual Studio cache
 .vscode/
-
-# Visual Studio
-.vs/
-
-# VS Code
-.vscode/
-
-# Build
-[Bb]in/
-[Oo]bj/
 
 # Test results
 TestResults/
